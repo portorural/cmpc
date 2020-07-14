@@ -4,8 +4,15 @@ Um esforço em conjunto dos CMPCs de Itu e Porto Feliz
 Início: Janeiro de 2019
 
 
-## Você quer apoiar nossa iniciativa?
+<strong>Você quer apoiar nossa iniciativa?</strong>
 Queremos saber as possibilidade que o Universo das Culturas nos proporcionam! A conversa é sempre um caminho para a felicidade!
+
+<strong>Você pode nos ajudar a informar as pessoas de nossas cidades?</strong>
+Podemos utilizar as mídias para fins públicos e comuns também!
+
+* Twitter: <https://twitter.com/CulturaItu>
+
+* Facebook: <https://www.facebook.com/cmpc.itu>
 
 
 ## Links Úteis
@@ -17,16 +24,6 @@ Queremos saber as possibilidade que o Universo das Culturas nos proporcionam! A 
 - Blog do CMPC de Porto Feliz: <http://www.creative-tim.com/products>
 
 - Para abrir pads do CMPC Itu: <https://pad.aguas.ml>
-
-
-## Você pode nos ajudar a informar as pessoas de nossas cidades?
-Podemos utilizar as mídias para fins públicos e comuns também!
-
-* Twitter: <https://twitter.com/CulturaItu>
-
-* Facebook: <https://www.facebook.com/cmpc.itu>
-
-
 
 
 ## Tema escolhido
