@@ -20,7 +20,6 @@ Queremos saber as possibilidade que o Universo das Culturas nos proporcionam! A 
 ## Você pode nos ajudar a informar as pessoas de nossas cidades?
 Podemos utilizar as mídias para fins públicos e comuns também!
 
-
 * Twitter: <https://twitter.com/CulturaItu>
 
 * Facebook: <https://www.facebook.com/cmpc.itu>
@@ -32,7 +31,6 @@ Podemos utilizar as mídias para fins públicos e comuns também!
 
 
 **[Blk• Design  System](http://demos.creative-tim.com/blk-design-system/index.html)** is a responsive Bootstrap 4 kit provided for free by Creative Tim. It is a beautiful cross-platform UI kit featuring over 70 elements and 3 templates.
-
 
 
 [CHANGELOG]: ./CHANGELOG.md
