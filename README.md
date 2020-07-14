@@ -5,10 +5,14 @@ Início: Janeiro de 2019
 
 
 <strong>Você quer apoiar nossa iniciativa?</strong>
+
 Queremos saber as possibilidade que o Universo das Culturas nos proporcionam! A conversa é sempre um caminho para a felicidade!
 
+
 <strong>Você pode nos ajudar a informar as pessoas de nossas cidades?</strong>
+
 Podemos utilizar as mídias para fins públicos e comuns também!
+
 
 * Twitter: <https://twitter.com/CulturaItu>
 
@@ -21,7 +25,7 @@ Podemos utilizar as mídias para fins públicos e comuns também!
 
 - Diálogos COVID 19: <https://dialogos.cmpc.org.br>
 
-- Blog do CMPC de Porto Feliz: <http://www.creative-tim.com/products>
+- Blog do CMPC de Porto Feliz: <https://conselhoculturapf.wordpress.com/>
 
 - Para abrir pads do CMPC Itu: <https://pad.aguas.ml>
 
